@@ -1,0 +1,8 @@
+Messages:
+  FAIL: '&cYou did not receive the spawner.'
+  SUCCESS: '&aYou got that spawner!'
+
+Settings:
+  Use-ActionBar-On-Message: true
+  Chance: 50
+  Permission: 'silkspawners.break'

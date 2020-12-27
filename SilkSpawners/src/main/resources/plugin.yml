@@ -1,0 +1,8 @@
+name: SilkSpawners
+version: ${project.version}
+main: me.therainguy.silkspawners.SilkSpawners
+api-version: 1.16
+prefix: SilkSpawners
+authors: [ TheRainGuy ]
+description: A simple plugin to break spawner with silk touch
+website: https://therainguy.me
