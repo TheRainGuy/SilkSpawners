@@ -1,3 +1,3 @@
 # SilkSpawners
 
-Spigot: https://www.spigotmc.org/resources/silkspawners.79704/
+Spigot: https://www.spigotmc.org/resources/silkspawners.87145/
